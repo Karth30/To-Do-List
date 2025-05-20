@@ -25,6 +25,11 @@ A sleek and functional **To-Do List** application built with ReactJS. This app l
   -- Tasks past their due time are highlighted in bright pink
 
 ---
+## Demo
+
+![image](https://github.com/user-attachments/assets/ea569a4d-6763-44eb-96cd-7d5e5dca361b)
+
+![image](https://github.com/user-attachments/assets/a7a11888-9377-4fe7-86be-6259f8e5b8eb)
 
 
 ### Prerequisites
