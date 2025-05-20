@@ -7,22 +7,22 @@ A sleek and functional **To-Do List** application built with ReactJS. This app l
 ##  Features
 
 -  **Add Tasks** with:
-  - Description
-  - Priority (`High`, `Medium`, `Low`)
-  - Due Time (HH:MM format)
+  -- Description
+  -- Priority (`High`, `Medium`, `Low`)
+  -- Due Time (HH:MM format)
 
 -  **Mark Tasks as Completed**
-  - Completed tasks are moved to a separate section
-  - Completed count is displayed
+  =- Completed tasks are moved to a separate section
+  =- Completed count is displayed
 
 -  **Edit Tasks**
-  - Update task description, priority, or time
+  =- Update task description, priority, or time
 
 -  **Delete Tasks**
-  - Delete from either active or completed list
+  =- Delete from either active or completed list
 
 -  **Overdue Highlighting**
-  - Tasks past their due time are highlighted in bright pink
+  =- Tasks past their due time are highlighted in bright pink
 
 ---
 
