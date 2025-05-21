@@ -43,3 +43,8 @@ A sleek and functional **To-Do List** application built with ReactJS. This app l
    ```bash
    git clone https://github.com/Karth30/To-Do-List
    cd To-Do-List
+   ```
+2. Start the app
+   ```bash
+   npm run start
+   ```
