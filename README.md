@@ -1,6 +1,6 @@
 # To-Do List App
 
-A sleek and functional **To-Do List** application built with ReactJS. This app lets you manage your daily tasks with features like **priority tagging, time-based scheduling**, **task editing**, **completion tracking**, and **separate completed task view**.
+A **To-Do List** application built with ReactJS. This app lets you manage your daily tasks with features like **priority tagging, time-based scheduling**, **task editing**, **completion tracking**, and **separate completed task view**.
 
 ---
 
